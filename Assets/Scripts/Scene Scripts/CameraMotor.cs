@@ -1,5 +1,4 @@
 /// <summary>
-/// Michael D'Agostino
 /// CameraMotor.cs
 /// 
 /// This file has code needed to make the camera follow the player object.

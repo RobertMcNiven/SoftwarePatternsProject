@@ -3,7 +3,6 @@
 /// their functionality.
 /// </summary>
 
-// Robert McNiven
 // Main Menu operations as of now.
 
 using System.Collections;

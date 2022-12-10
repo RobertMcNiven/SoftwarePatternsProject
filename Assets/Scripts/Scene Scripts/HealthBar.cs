@@ -2,8 +2,6 @@
 /// This is for the healthbar movement, the set health is in the entity class.
 /// </summary>
 
-// Robert McNiven
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -45,17 +43,5 @@ public class HealthBar : MonoBehaviour
     {
         slider.value = player.CurrentHealth;
     }
-    /*
-    public void SetMaxHealth()
-    {
-        slider.maxValue = HEALTH_BASE;
-        slider.value = HEALTH_BASE;
-    }
 
-    public void SetHealth(int damage)
-    {
-        HEALTH_BASE -= damage;
-        slider.value = HEALTH_BASE;
-    }
-    */
 }

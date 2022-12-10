@@ -1,4 +1,3 @@
-// Robert McNiven
 /// <summary> Followed a tutorial for this one mainly for the look
 /// https://www.youtube.com/watch?v=JivuXdrIHK0
 /// </summary> 

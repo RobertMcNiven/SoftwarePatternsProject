@@ -1,5 +1,3 @@
-// Elijah Nieves
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -67,11 +65,6 @@ public class EnemySpawner : MonoBehaviour
             gameObject.GetComponent<BoxCollider2D>().enabled = false;   // turns off the physical spawner collider
         }
     }
-
-
-    // LO1c. Utilize an initialization list
-    //       Initialization lists were made illegal in C#.
-    //       https://stackoverflow.com/questions/2435175/when-initializing-in-c-sharp-constructors-whats-better-initializer-lists-or-as
 
     // EnemySpawner() : enemyListSize(int i = enemyPrefabs.Count) {}
 

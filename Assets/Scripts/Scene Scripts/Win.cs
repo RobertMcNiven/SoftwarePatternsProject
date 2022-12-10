@@ -1,4 +1,3 @@
-// Robert McNiven
 ///<summary>
 ///Functions for buttons on win screen.
 /// </summary>
