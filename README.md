@@ -32,8 +32,6 @@ If you would like to contribute and think you have good ideas, just message us o
 
 ## Authors
 
- - Elijah Nieves
- - Michael DAgostino
  - Robert McNiven
 
 
