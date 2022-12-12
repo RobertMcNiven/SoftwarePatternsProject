@@ -4,17 +4,9 @@ This is a top-down Diablo-like dungeon-crawler prototype built for our Programmi
 ## Controls
 Use WASD or the arrow keys to move. Use 'J' to attack
 
-## Demonstration
-[Starting Up](COP3003-Integration-Project/ReadmeImages/giphy.mp4)
-
 
 ## Documentation
 For this game we wrote all of our scripts in C#. We are using standard formatting with XML tags and [this coding style](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md) from another GitHub repository.
-
-
-## Diagrams
-This is our full class diagram of all the project components:
-[Diagram](https://github.com/mdagostino00/COP3003-Integration-Project/blob/master/ReadmeImages/DungeonKnightClassDiagram.png)
 
 
 ## Getting Started
@@ -43,6 +35,3 @@ If you would like to contribute and think you have good ideas, just message us o
 ## History
 At first it was going to be a JRPG style game but it has turned more into a skill based dungeon crawler where you want to complete levels, kill enemies and survive! We chose to focus on making the game more dynamic, in these few months that we had, to make it easy to implement enemies and levels, rather than having a lot them.
 
-
-## Error Report
-[Report](https://cdn.discordapp.com/attachments/895770715557621815/920860123910537216/unknown.png)
